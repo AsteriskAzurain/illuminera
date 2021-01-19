@@ -1,0 +1,252 @@
+
+<telerik:AjaxSetting AjaxControlID="MedicalQutoValue">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="MedicalQutoValue" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="CbPaymentCategory">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="CbPaymentCategory" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="City">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="City" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LBCF">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LBCF" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="btnSave">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="btnSave" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="BtPVView">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="BtPVView" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LBPVAmountSurplus">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LBPVAmountSurplus" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="tbRemarks">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="tbRemarks" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="CbPVNumber">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="CbPVNumber" />
+		<telerik:AjaxUpdatedControl ControlID='LBCFAmount' />
+		<telerik:AjaxUpdatedControl ControlID='CbPaymentCategory' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmount' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVSurplus' />
+		<telerik:AjaxUpdatedControl ControlID='LBCF' />
+		<telerik:AjaxUpdatedControl ControlID='LBPV' />
+		<telerik:AjaxUpdatedControl ControlID='CbDepartment' />
+		<telerik:AjaxUpdatedControl ControlID='RgCFDetailInfo' />
+		<telerik:AjaxUpdatedControl ControlID='BtPVView' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmountSurplus' />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LBPVSurplus">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LBPVSurplus" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="tbLbApplyUser">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="tbLbApplyUser" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LbIsPV">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LbIsPV" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="CbNumber">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="CbNumber" />
+		<telerik:AjaxUpdatedControl ControlID='LBCFAmount' />
+		<telerik:AjaxUpdatedControl ControlID='DLIsPV' />
+		<telerik:AjaxUpdatedControl ControlID='CbPVNumber' />
+		<telerik:AjaxUpdatedControl ControlID='LbIsPV' />
+		<telerik:AjaxUpdatedControl ControlID='CbPaymentCategory' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmount' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVSurplus' />
+		<telerik:AjaxUpdatedControl ControlID='LbPvNumber' />
+		<telerik:AjaxUpdatedControl ControlID='LbCompan' />
+		<telerik:AjaxUpdatedControl ControlID='LBCF' />
+		<telerik:AjaxUpdatedControl ControlID='LBPV' />
+		<telerik:AjaxUpdatedControl ControlID='CbDepartment' />
+		<telerik:AjaxUpdatedControl ControlID='BtPVView' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmountSurplus' />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LBPVAmount">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LBPVAmount" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LbCompany">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LbCompany" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="CbDepartment">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="CbDepartment" />
+		<telerik:AjaxUpdatedControl ControlID='LbCompany' />
+		<telerik:AjaxUpdatedControl ControlID='CbPaymentCategory' />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="btnConfirm">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="btnConfirm" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LbJobNumber">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LbJobNumber" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LbMedicalQuto">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LbMedicalQuto" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LBCFAmount">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LBCFAmount" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="DLIsPV">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="DLIsPV" />
+		<telerik:AjaxUpdatedControl ControlID='LBCFAmount' />
+		<telerik:AjaxUpdatedControl ControlID='CbPVNumber' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmount' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVSurplus' />
+		<telerik:AjaxUpdatedControl ControlID='LbPvNumber' />
+		<telerik:AjaxUpdatedControl ControlID='LBCF' />
+		<telerik:AjaxUpdatedControl ControlID='CbDepartment' />
+		<telerik:AjaxUpdatedControl ControlID='LBPV' />
+		<telerik:AjaxUpdatedControl ControlID='BtPVView' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmountSurplus' />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="BtSaveDetail">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="BtSaveDetail" />
+		<telerik:AjaxUpdatedControl ControlID='LBCFAmount' />
+		<telerik:AjaxUpdatedControl ControlID='RgCFDetailInfo' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmountSurplus' />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="btnSub">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="btnSub" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LbPvNumber">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LbPvNumber" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LbCompan">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LbCompan" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="Rcb_IsProject">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="Rcb_IsProject" />
+		<telerik:AjaxUpdatedControl ControlID='CbPaymentCategory' />
+		<telerik:AjaxUpdatedControl ControlID='City' />
+		<telerik:AjaxUpdatedControl ControlID='LBCF' />
+		<telerik:AjaxUpdatedControl ControlID='BtPVView' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmountSurplus' />
+		<telerik:AjaxUpdatedControl ControlID='tbRemarks' />
+		<telerik:AjaxUpdatedControl ControlID='CbPVNumber' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVSurplus' />
+		<telerik:AjaxUpdatedControl ControlID='LbIsPV' />
+		<telerik:AjaxUpdatedControl ControlID='CbNumber' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmount' />
+		<telerik:AjaxUpdatedControl ControlID='CbDepartment' />
+		<telerik:AjaxUpdatedControl ControlID='LbJobNumber' />
+		<telerik:AjaxUpdatedControl ControlID='LbMedicalQuto' />
+		<telerik:AjaxUpdatedControl ControlID='LBCFAmount' />
+		<telerik:AjaxUpdatedControl ControlID='DLIsPV' />
+		<telerik:AjaxUpdatedControl ControlID='BtSaveDetail' />
+		<telerik:AjaxUpdatedControl ControlID='LbPvNumber' />
+		<telerik:AjaxUpdatedControl ControlID='tbPrice' />
+		<telerik:AjaxUpdatedControl ControlID='Rcb_IsProject' />
+		<telerik:AjaxUpdatedControl ControlID='LBPV' />
+		<telerik:AjaxUpdatedControl ControlID='rdDate' />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="LBPV">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="LBPV" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="tbPrice">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="tbPrice" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="RgCFDetailInfo">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="RgCFDetailInfo" />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmount' />
+		<telerik:AjaxUpdatedControl ControlID='LBCFAmount' />
+		<telerik:AjaxUpdatedControl ControlID='RgCFDetailInfo' />
+		<telerik:AjaxUpdatedControl ControlID='LBPVAmountSurplus' />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="rdDate">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="rdDate" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+
+<telerik:AjaxSetting AjaxControlID="RadDatePicker1">
+    <UpdatedControls>
+        <telerik:AjaxUpdatedControl ControlID="RadDatePicker1" />
+    </UpdatedControls>
+</telerik:AjaxSetting>
+

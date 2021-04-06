@@ -1,8 +1,10 @@
 import pymssql
 
-server = "192.168.1.240\MSSQL240"
+server = "192.168.1.245"
+# server = "192.168.1.240\MSSQL240"
 user = "sa"
-password = "qaz123456wsx"
+password = "Illuminera2011"
+# password = "qaz123456wsx"
 database = "IllumineraERP"
 conn = pymssql.connect(server, user, password, database)
 

@@ -53,7 +53,9 @@ for fileid in ls_fileID:
 
     textmsg = ""
     pagelist = []
-    textmsg = soup.find('span', id='textmsg').get_text()
+    span_msg = soup.find('span', id='textmsg')
+    if span_msg != None:
+        textmsg = span_msg.get_text()
     pagelist = soup.find_all('div', attrs={"class": "pagecont"})
 
     print(fileid, '\t', "Success" if len(pagelist) > 0 else textmsg)
